@@ -1,5 +1,6 @@
 # 内容目录
 
+* [Introduction](README.md)
 * [分布式ID生成器](cn/distributed-id-generator.md)
 * [短网址系统(TinyURL)](cn/tinyurl.md)
 * [信息流(News Feed)](cn/news-feed.md)
